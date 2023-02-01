@@ -14,3 +14,5 @@ VALUES ('Mais Novo', 'MV', 'Norte', 2.51)
  * próximo ID que sera incrementado vai ser 1001 e não 31, pois ele continua a partir
  * do ultimo ID incrementado.
 */
+
+SELECT * FROM ESTADOS
